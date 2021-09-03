@@ -1,3 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
 .home {
 	background: url(../images/Background-1.jpg);
 	background-repeat: no-repeat;
