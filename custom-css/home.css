@@ -2,7 +2,8 @@ html{
 	scroll-behavior: smooth;
 }
 .home {
-	background: url(../images/Background-1.jpg);
+	background-image: radial-gradient(circle, #555555 , #323232);
+/* 	background: url(../images/Background-1.jpg); */
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
